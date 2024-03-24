@@ -1,7 +1,9 @@
 Infinite Pong Game
 
 with 100% accurate you play against
-features
+
+
+features:
 1. you will lose eventually
 2. the algorithm will always prevail further than you
 
